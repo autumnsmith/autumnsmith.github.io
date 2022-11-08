@@ -1,0 +1,94 @@
+body {
+  background: #fff;
+  color: #222;
+}
+
+main {
+  max-width: 600px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 1.5rem;
+  margin: 2rem 0;
+}
+
+h2 {
+  font-size: 1.2rem;
+  margin: 2rem 0;
+}
+
+li {
+  margin-bottom: 1.5rem;
+}
+
+.navbar-brand {
+  font-size: 1.2rem;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+.btn {
+  color: white;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+
+.btn-twitter {
+  background-color: #006cff;
+  border-color: #006cff;
+}
+
+.btn-twitter:hover {
+  background-color: transparent;
+  border-color: #006cff;
+  color: #006cff;
+}
+
+.btn-medium,
+.btn-contact {
+  background-color: #777;
+  border-color: #777;
+}
+
+.btn-medium:hover,
+.btn-contact:hover {
+  background-color: transparent;
+  border-color: #777;
+  color: #777;
+}
+
+.btn-makeuseof {
+  background-color: #303133;
+  border-color: #303133;
+}
+
+.btn-makeuseof:hover {
+  background-color: transparent;
+  border-color: #303133;
+  color: #303133;
+}
+
+.btn-instagram {
+  background-color: #e9168c;
+  border-color: #e9168c;
+}
+
+.btn-instagram:hover {
+  background-color: transparent;
+  border-color: #e9168c;
+  color: #e9168c;
+}
+
+.btn-linkedin {
+  background-color: #0cb4ce;
+  border-color: #0cb4ce;
+}
+
+.btn-linkedin:hover {
+  background-color: transparent;
+  border-color: #0cb4ce;
+  color: #0cb4ce;
+}
